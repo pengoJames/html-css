@@ -1,0 +1,19 @@
+p {
+    color: blue;
+}
+
+#paragraph-two {
+    color: brown;
+}
+
+.para-one {
+    color: red;
+}
+
+p#unit {
+    color: yellow;
+}
+
+a:hover {
+    color: orangered;
+}

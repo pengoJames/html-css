@@ -1,0 +1,11 @@
+ul li {
+    list-style: none;
+}
+
+#blog div h1 {
+    color: blue;
+}
+
+#life > h1 {
+    color: orange;
+}
